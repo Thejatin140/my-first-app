@@ -1,0 +1,6 @@
+{
+  "name": "English Speaking Trainer",
+  "description": "An interactive, voice-first English speaking coach featuring dynamic AI dialogues, real-time Text-to-Speech audio feedback, pronunciation scoring, and vocabulary tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
